@@ -1,0 +1,19 @@
+{
+  "name": "sql-employee-tracker",
+  "version": "1.0.0",
+  "description": "maintain a MySQL database of employees using inquirer interface",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/checkbox": "^1.5.2",
+    "dotenv": "^16.4.5",
+    "inquirer": "^8.2.6",
+    "mysql2": "^3.9.2"
+  }
+}
