@@ -26,7 +26,7 @@ This is a node based app which runs on the command-line using inquirer and MySQL
 
 Link to demo video:
 
-https://drive.google.com/file/d/1PgF03Dp-MEmL4BprzEjbyscRpgkrF-ff/view?usp=drive_link
+https://drive.google.com/file/d/1vyXv3wZoHNGtN-qSxz-yHzrpzdwAojiE/view?usp=drive_link
 
 ## 4. Usage and Installation
 
